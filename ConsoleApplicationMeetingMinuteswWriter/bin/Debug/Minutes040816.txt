@@ -1,0 +1,29 @@
+-----------------------------------
+
+Meeting Minutes Management Software
+
+-----------------------------------
+***********************************
+
+Company Name = Central Perk, Incorporated
+Company Address = 123 Broadway New York, NY 44789
+Meeting Minutes
+
+***********************************
+
+Team member recording minutes is: liam
+
+Team member leading the meeting is: stull
+
+The date of the meeting is: 040816
+
+The type of meeting is: Admin Team
+
+Topic: sales
+
+Notes: not good
+
+Topic: marketing
+
+Notes: awesome
+
