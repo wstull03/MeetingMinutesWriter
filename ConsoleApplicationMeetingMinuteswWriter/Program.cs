@@ -125,9 +125,9 @@ namespace ConsoleApplicationMeetingMinuteswWriter
                             writer.WriteLine();
                             writer.WriteLine("Team member leading the meeting is: " + meetingLeader);
                             writer.WriteLine();
-                            writer.WriteLine("The date of the meeting is: " + meetingDate);
+                            writer.WriteLine("The meeting date is: " + meetingDate);
                             writer.WriteLine();
-                            writer.WriteLine("The type of meeting is: " + meetingTypes[meetingTypeNumber - 1]);
+                            writer.WriteLine("The meeting type is: " + meetingTypes[meetingTypeNumber - 1]);
                             writer.WriteLine();
                             writer.WriteLine("Topic: " + meetingTopic);
                             writer.WriteLine();
